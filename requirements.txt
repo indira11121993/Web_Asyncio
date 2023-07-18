@@ -1,0 +1,6 @@
+requests
+aiohttp
+sqlalchemy==1.4.46
+psycopg2-binary
+aiohttp
+asyncpg
